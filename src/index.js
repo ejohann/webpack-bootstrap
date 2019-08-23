@@ -3,7 +3,7 @@ import Heading from './components/heading/heading.js';
 import addImage from './add-image';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '/index.scss'
+import './index.scss'
 
 const heading = new Heading();
 const helloWorldButton = new HelloWorldButton();
